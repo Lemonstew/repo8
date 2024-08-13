@@ -1,7 +1,3 @@
-Halli Galli
-Rummikub
-Jenga
-Brass Birmingham
 Spirit Island
 Lorenzo
 Gaia Project
@@ -17,3 +13,4 @@ Frosthaven
 Gizmos
 Splendor
 Dice Throne
+Arnak

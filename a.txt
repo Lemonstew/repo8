@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 world
 안녕
@@ -5,3 +6,7 @@ Korea
 newyork
 ^~^
 Beijing
+=======
+korea
+seoul
+>>>>>>> feat3
