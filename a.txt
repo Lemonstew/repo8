@@ -1,3 +1,7 @@
 hello
 world
+<<<<<<< HEAD
 안녕
+=======
+hola
+>>>>>>> feature2
