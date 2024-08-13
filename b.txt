@@ -18,3 +18,4 @@ Gizmos
 Splendor
 Dice Throne
 Aeon's End
+Wonderland War
