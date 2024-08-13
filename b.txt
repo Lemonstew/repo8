@@ -16,3 +16,4 @@ Pandemic legacy
 Frosthaven
 Gizmos
 Splendor
+Dice Throne
