@@ -17,3 +17,4 @@ Frosthaven
 Gizmos
 Splendor
 Dice Throne
+Aeon's End
